@@ -3,13 +3,13 @@
 	import { onMount } from "svelte";
 
     let pages = [
-        { name: "Home", path: "/streamtools" },
+        { name: "Home", path: "/streaming" },
     ];
 </script>
 
 <nav class="navbar navbar-expand-lg">
 	<div class="container-fluid">
-		<a class="navbar-brand" href="/streamtools">Stream Tools</a>
+		<a class="navbar-brand" href="/sreaming">Stream Tools</a>
 		<button
 			class="navbar-toggler"
 			type="button"
