@@ -6,7 +6,7 @@
             name: "SRN Feud",
             description: "Host Google Feud for your viewers to play!",
             image: "/project_images/srn_feud.png",
-            download: "#",
+            download: "https://chromewebstore.google.com/detail/srn-feud/koonghjejgkkfjbhplbkbbknhnhlogki",
             demo: "https://youtu.be/YeO-S66FwSk"
         },
         {
