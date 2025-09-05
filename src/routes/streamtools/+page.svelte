@@ -19,7 +19,6 @@
 </script>
 
 <title>Stream Tools - SRN's Site</title>
-<StreamToolsNavbar />
 
 <main>
 	<div class="hero">
